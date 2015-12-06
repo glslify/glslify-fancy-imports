@@ -1,0 +1,34 @@
+{
+  "name": "glslify-fancy-imports",
+  "version": "1.0.0",
+  "description": "glslify transform that provides you with a cleaner module import/export syntax ✨",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test | tap-spec"
+  },
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://github.com/hughsk"
+  },
+  "dependencies": {
+    "glsl-token-string": "^1.0.1",
+    "glsl-tokenizer": "^2.0.2"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stackgl/glslify-fancy-imports.git"
+  },
+  "keywords": [
+    "ecosystem:stackgl"
+  ],
+  "homepage": "https://github.com/stackgl/glslify-fancy-imports",
+  "bugs": {
+    "url": "https://github.com/stackgl/glslify-fancy-imports/issues"
+  }
+}
