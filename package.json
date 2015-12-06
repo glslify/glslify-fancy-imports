@@ -1,6 +1,6 @@
 {
   "name": "glslify-fancy-imports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "glslify transform that provides you with a cleaner module import/export syntax ✨",
   "main": "index.js",
   "license": "MIT",
